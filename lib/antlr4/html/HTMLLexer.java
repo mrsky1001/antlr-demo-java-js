@@ -1,4 +1,4 @@
-// Generated from main/gramma/html/HTMLLexer.g4 by ANTLR 4.8
+package antlr4.html;// Generated from main/gramma/html/HTMLLexer.g4 by ANTLR 4.8
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;

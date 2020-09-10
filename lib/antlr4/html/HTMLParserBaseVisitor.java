@@ -1,4 +1,4 @@
-// Generated from main/gramma/html/HTMLParser.g4 by ANTLR 4.8
+package antlr4.html;// Generated from main/gramma/html/HTMLParser.g4 by ANTLR 4.8
 import org.antlr.v4.runtime.tree.AbstractParseTreeVisitor;
 
 /**
